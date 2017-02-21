@@ -82,7 +82,7 @@ $('img').click(function() {
 
 
 
-//.$("p").css("background-color", "pink");
+
 
 
 })
